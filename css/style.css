@@ -216,7 +216,7 @@ section {
 .admin-order-table table thead {
     position: sticky;
     top: 70px;
-    z-index: 1000;
+    z-index: 100;
 }
 
 .display-product-table table thead th,

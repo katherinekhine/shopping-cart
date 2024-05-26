@@ -2,7 +2,7 @@
 
 This project is a comprehensive e-commerce solution that includes a user-friendly shopping cart system, a powerful admin panel, and a secure checkout system. It is built using HTML, CSS, JavaScript, and PHP, ensuring a seamless and interactive experience for both customers and administrators.
 
-# Features
+## Features
 
 Customer Side:
 
@@ -37,7 +37,7 @@ Admin Panel:
     Admins can view all orders placed by customers.
     Order details, including customer information, products ordered, and total amount, are displayed.
 
-# Technologies Used
+## Technologies Used
 
     HTML: For structuring the web pages and content.
     CSS: For styling the web pages, including layout, colors, and fonts.
@@ -45,7 +45,7 @@ Admin Panel:
     PHP: For server-side processing, handling form submissions, and interacting with the database.
     MySQL: For storing product data, user information, and order details.
 
-# Key Functionalities
+## Key Functionalities
 
 1.  Dynamic Product Display:
     Products are fetched from the database and displayed on the front end dynamically.
@@ -63,7 +63,7 @@ Admin Panel:
     Prepared statements are used to prevent SQL injection attacks.
     User sessions and input sanitization are implemented to enhance security.
 
-# How to Run the Project
+## How to Run the Project
 
 1.  Setup the Environment:
     Install XAMPP or any other local server environment.
@@ -78,9 +78,9 @@ Admin Panel:
     Update the database configuration in db.php file with your database credentials.
 
 4.  Access the Application:
-    Open a web browser and navigate to http://localhost/your_project_directory/products.php to access the customer-facing site.
-    Navigate to http://localhost/your_project_directory/index.php to access the admin panel.
+    Open a web browser and navigate to `http://localhost/your_project_directory/products.php` to access the customer-facing site.
+    Navigate to `http://localhost/your_project_directory/index.php` to access the admin panel.
 
-# Conclusion
+## Conclusion
 
 This shopping cart system with an admin panel and checkout system provides a complete solution for managing an online store. It offers a smooth user experience for customers and comprehensive management tools for administrators, making it an ideal choice for small to medium-sized businesses looking to establish an online presence.
